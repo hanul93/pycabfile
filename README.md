@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png" width="256" alt="pycabfile logo">
+	<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png?raw=true" width="256" alt="pycabfile logo">
 </p>
 
 [![Powered by Nurilab](https://img.shields.io/badge/powered%20by-Nurilab-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
