@@ -2,13 +2,13 @@
 	<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png" width="256" alt="pycabfile logo">
 </p>
 
-<p align="center">
-	[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-	![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
-	![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
-	![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)<br>
-	![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
-</p>
+[![Powered by Nurilab](https://img.shields.io/badge/powered%20by-Nurilab-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
+https://nurilab.com)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)
+![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
 
 ## pycabfile
 
