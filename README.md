@@ -1,12 +1,16 @@
-<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png" width="128" alt="pycabfile logo">
+<p align="center">
+	<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png" width="256" alt="pycabfile logo">
+</p>
 
-# pycabfile
+<p align="center">
+	[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+	![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+	![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
+	![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)<br>
+	![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
+</p>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
-![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
-![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)<br>
-![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
+## pycabfile
 
 A Python library for handling Microsoft Cabinet files with zipfile-compatible interface
 
