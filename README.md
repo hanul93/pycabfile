@@ -1,4 +1,12 @@
+<img src="https://github.com/hanul93/pycabfile/blob/1.0.1/doc/pycabfile_logo.png" width="128" alt="pycabfile logo">
+
 # pycabfile
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)<br>
+![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
 
 A Python library for handling Microsoft Cabinet files with zipfile-compatible interface
 
@@ -87,14 +95,14 @@ with CabFile('example.cab', 'r') as cab:
 
 The API is designed to be a drop-in replacement for zipfile in most cases:
 
-| zipfile                            | pycabfile                   |
-| ---------------------------------- | --------------------------- |
-| `zipfile.ZipFile('file.zip', 'w')` | `CabFile('file.cab', 'w')`  |
-| `zf.write('file.txt')`             | `cf.write('file.txt')`      |
-| `zf.writestr('name', data)`        | `cf.writestr('name', data)` |
-| `zf.read('name')`                  | `cf.read('name')`           |
-| `zf.namelist()`                    | `cf.namelist()`             |
-| `zf.extractall()`                  | `cf.extractall()`           |
+| zipfile                            | pycabfile                            |
+| ---------------------------------- | ------------------------------------ |
+| `zipfile.ZipFile('file.zip', 'w')` | `pycabfile.CabFile('file.cab', 'w')` |
+| `zf.write('file.txt')`             | `cf.write('file.txt')`               |
+| `zf.writestr('name', data)`        | `cf.writestr('name', data)`          |
+| `zf.read('name')`                  | `cf.read('name')`                    |
+| `zf.namelist()`                    | `cf.namelist()`                      |
+| `zf.extractall()`                  | `cf.extractall()`                    |
 
 ## Testing
 
