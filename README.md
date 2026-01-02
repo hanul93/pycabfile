@@ -9,6 +9,7 @@ https://nurilab.com)
 ![Platform](https://img.shields.io/badge/platform-linux-lightgrey.svg)
 ![Platform](https://img.shields.io/badge/platform-mac-lightgrey.svg)
 ![Language](https://img.shields.io/badge/Python-V3.10+-brightgreen)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pycabfile?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pycabfile)
 
 ## pycabfile
 
